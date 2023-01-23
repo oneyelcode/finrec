@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render homepage unchanged 1`] = `
+<div>
+  <div
+    class="relative h-full"
+  >
+    <div
+      class="flex flex-col p-4"
+    >
+      <h1
+        class="ant-typography !mb-2 css-dev-only-do-not-override-1n7nwfa"
+      >
+        Finrec
+      </h1>
+      <div
+        class="ant-space css-dev-only-do-not-override-1n7nwfa ant-space-vertical"
+      >
+        <div
+          class="ant-space-item"
+          style="margin-bottom: 16px;"
+        >
+          <span
+            class="ant-typography css-dev-only-do-not-override-1n7nwfa"
+          >
+            Financial Records App
+          </span>
+        </div>
+        <div
+          class="ant-space-item"
+          style="margin-bottom: 16px;"
+        >
+          <button
+            class="ant-btn css-dev-only-do-not-override-1n7nwfa ant-btn-primary"
+            type="button"
+          >
+            <span>
+              Click Me
+            </span>
+          </button>
+        </div>
+        <div
+          class="ant-space-item"
+          style="margin-bottom: 16px;"
+        >
+          <button
+            class="ant-btn css-dev-only-do-not-override-1n7nwfa ant-btn-dashed"
+            type="button"
+          >
+            <span>
+              Go to Settings Page
+            </span>
+          </button>
+        </div>
+        <div
+          class="ant-space-item"
+        >
+          <button
+            class="ant-btn css-dev-only-do-not-override-1n7nwfa ant-btn-primary ant-btn-dangerous"
+            type="button"
+          >
+            <span>
+              Don‘t Click Me
+            </span>
+          </button>
+        </div>
+      </div>
+      <span
+        class="mt-4"
+      >
+        Screen Res: 
+        1024 * 768
+      </span>
+    </div>
+  </div>
+</div>
+`;
